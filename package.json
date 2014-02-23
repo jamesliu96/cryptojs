@@ -1,0 +1,18 @@
+{
+  "name": "cryptojs",
+  "version": "0.0.2",
+  "description": "A JavaScript crypto library",
+  "main": "index.js",
+  "keywords": [
+    "crypto",
+    "encryption"
+  ],
+  "engines": {
+    "node": ">=0.1.90"
+  },
+  "author": "James Liu",
+  "homepage": "http://jamesliu.info/",
+  "license": "MIT",
+  "readme": "<h1>Node-CryptoJS by James Liu</h1> <h2>Overview</h2> <p><strong>Node-CryptoJS</strong> is a encryption package for Node.js [CryptoJS]</p> <h2>Usage</h2> <p>When you <code>require</code> the module <code>cryptojs</code> you can use the latest <code>cryptojs</code> functions in your applications.</p> <h3>Includes</h3> <ul> <li><p>AES</p></li> <li><p>MD5</p></li> <li><p>SHA(1, 3, 224, 256, 384, 512)</p></li> <li><p>pbkdf2</p></li> <li><p>RC4</p></li> <li><p>ripemd160</p></li> <li><p>Rabbit(legacy)</p></li> <li><p>tripledes</p></li> <li><p>Hmac-all</p></li> </ul> <h2>Method</h2> <h3>import</h3> <pre><code>var cryptojs = require(\"cryptojs\"); </code></pre> <h3>use</h3> <p>```Javascript // MD5 encryptedMessage1 = cryptojs.CryptoJS.MD5(\"message\");</p> <p>// SHA1 encryptedMessage2 = cryptojs.CryptoJS.SHA1(\"message\"); ```</p> <h2>Credits</h2> <h3><a href=\"https://code.google.com/p/crypto-js/\">Jeff Mott</a></h3> <h3><a href=\"http://jamesliu.info/\">James Liu</a></h3>",
+  "readmeFilename": "README.md"
+}
