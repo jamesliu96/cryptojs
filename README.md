@@ -74,6 +74,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Credits
 
-### [Jeff Mott](https://code.google.com/p/crypto-js/)
-
 ### [James Liu](http://jamesliu.info/)
+
+### [Jeff Mott](https://code.google.com/p/crypto-js/)
