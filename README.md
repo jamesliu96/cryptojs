@@ -40,17 +40,17 @@ Includes
 ### import
 
 ```
-var cryptojs = require("cryptojs");
+var cryptojs = require("cryptojs").CryptoJS;
 ```
 
 ### use
 
 ```Javascript
 // MD5
-encryptedMessage1 = cryptojs.CryptoJS.MD5("message");
+encryptedMessage1 = cryptojs.MD5("message");
 
 // SHA1
-encryptedMessage2 = cryptojs.CryptoJS.SHA1("message");
+encryptedMessage2 = cryptojs.SHA1("message");
 ```
 License
 ------
