@@ -10,6 +10,9 @@
   "engines": {
     "node": ">=0.1.90"
   },
+  "scripts": {
+    "test": "node test.js"
+  },
   "author": "James Liu",
   "homepage": "http://jamesliu.info/",
   "license": "MIT",
