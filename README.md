@@ -1,15 +1,21 @@
-# Node-CryptoJS by James Liu
+Node-CryptoJS by James Liu
+======
 
-## Overview
+[![Build Status](https://travis-ci.org/jamesliu96/cryptojs.png)](https://travis-ci.org/jamesliu96/cryptojs)
+
+Overview
+------
 
 **Node-CryptoJS** is a encryption package for Node.js
 [CryptoJS]
 
-## Usage
+Usage
+------
 
 When you `require` the module `cryptojs` you can use the latest `cryptojs` functions in your applications.
 
-### Includes
+Includes
+------
 
 - AES
 
@@ -46,7 +52,8 @@ encryptedMessage1 = cryptojs.CryptoJS.MD5("message");
 // SHA1
 encryptedMessage2 = cryptojs.CryptoJS.SHA1("message");
 ```
-## License
+License
+------
 
 The MIT License (MIT)
 
@@ -72,7 +79,8 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-## Credits
+Credits
+------
 
 ### [James Liu](http://jamesliu.info/)
 
