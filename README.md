@@ -55,7 +55,7 @@ encryptedMessage2 = cryptojs.SHA1("message");
 License
 ------
 
-The MIT License (MIT)
+[The MIT License](http://james.mit-license.org/) (MIT)
 
 Copyright (c) 2014 James Liu
 
